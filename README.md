@@ -29,4 +29,4 @@ npm start
 Use at your own risk; not a supported MongoDB product
 
 
-TEAM MEMBERS :- JAY PATEL < BENJAMIN BABU
+TEAM MEMBERS :- JAY PATEL , BENJAMIN BABU
